@@ -20,8 +20,9 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+#seo {
     color: #d9dcd6;
+    float: right;
 }
 
 .header div {
@@ -83,7 +84,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2a607c;
 }
 
 .benefit-lead {
@@ -139,7 +140,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -148,7 +149,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -157,7 +158,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
