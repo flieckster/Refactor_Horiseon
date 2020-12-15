@@ -22,10 +22,9 @@ body {
 
 #seo {
     color: #d9dcd6;
-    float: right;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul  {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -84,7 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2a607c;
+    background-color: #2589bd;
 }
 
 .benefit-lead {
@@ -140,7 +139,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -149,7 +148,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -158,7 +157,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
